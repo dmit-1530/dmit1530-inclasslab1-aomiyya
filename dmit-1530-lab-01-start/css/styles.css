@@ -29,7 +29,6 @@ main {
 
 h1,
 h2,
-h3,
 a {
     font-family: 'Fjalla One', sans-serif;
     color: var(--dark-slate-gray);
@@ -48,7 +47,6 @@ h2 {
 
 h3 {
     font-size: 1.25rem;
-    font-weight: 100;
     margin-bottom: 1rem;
 }
 
