@@ -23,7 +23,8 @@ body {
 
 main {
     margin: 0 auto;
-    max-width: 65vw;
+    max-width: 64rem;
+    width: 90vw;
 }
 
 h1,
